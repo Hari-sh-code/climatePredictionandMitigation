@@ -5,9 +5,9 @@ This project employs advanced data-driven methodologies to predict climate varia
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Project Structure](#project-structure)
+- [Project Structure](#projectStructure)
 - [Setup](#setup)
-- [Project Report](#project-report)
+- [Project Report](#projectReport)
 
 ## Introduction
 
