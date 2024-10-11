@@ -38,3 +38,9 @@ Install the required libraries using pip:
 
 ```bash
 pip install numpy pandas scikit-learn tensorflow keras matplotlib
+```
+
+## Project Report
+
+You can find the detailed project report [here](project-report.pdf).
+
