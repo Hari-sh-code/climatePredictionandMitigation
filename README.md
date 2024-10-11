@@ -1,19 +1,12 @@
 # Climate Prediction and Mitigation using LSTM
 
-This project employs advanced data-driven methodologies to predict climate variables such as temperature, SO2 emission, and NO2 emission using LSTM (Long Short-Term Memory) neural networks. The project aims to provide insights into climate change and propose mitigation strategies by analyzing historical climate data.
+This project employs advanced data-driven methodologies to predict climate variables such as temperature, SO2 emission, and NO2 emission using LSTM (Long Short-Term Memory) neural networks.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Project Structure](#project-structure)
 - [Setup](#setup)
-- [Usage](#usage)
-- [Model Training](#model-training)
-- [Forecasting](#forecasting)
-- [Visualization](#visualization)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
